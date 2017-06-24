@@ -90,6 +90,14 @@
 * [软件测试-学习指南](http://blog.csdn.net/xc5683/article/details/9448427)
 * [软件测试修炼之道](http://blog.csdn.net/xc5683/article/details/8146595)
 * [软件测试-资源下载](http://blog.csdn.net/xc5683/article/details/50460984#comments)
+* [软件测试基础视频](http://blog.csdn.net/xc5683/article/details/42421645)
+* [史上最全软件测试学习资料（图文教程和视频教程）](https://www.douban.com/group/topic/94986635/?type=like)
+* 软件测试学习网站
+    * [51testing软件测试网](http://www.51testing.com/html/)
+    * [QuickTest领先技术专栏](http://blog.csdn.net/zzxxbb112)
+    * [卖烧烤的鱼测试博客](http://www.51testing.com/html/)
+    * [实用性测试](http://blog.csdn.net/Testing_is_believing)
+    
 
 
 
