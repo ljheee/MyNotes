@@ -84,6 +84,15 @@
 
 
 
+
+### 软件测试
+* [软件测试-教程整理](http://blog.csdn.net/xc5683/article/details/8094552)
+* [软件测试-学习指南](http://blog.csdn.net/xc5683/article/details/9448427)
+* [软件测试修炼之道](http://blog.csdn.net/xc5683/article/details/8146595)
+* [软件测试-资源下载](http://blog.csdn.net/xc5683/article/details/50460984#comments)
+
+
+
 ### 大数据
 
 * [lxw的大数据田地](http://lxw1234.com/)
