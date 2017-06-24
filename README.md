@@ -2,7 +2,8 @@
 
 * [--author：ljheee]
 * [--2017-6-24]
-* [Blog：](my.csdn.net/ljheee)
+* [Blog：my.csdn.net/ljheee]
+
 ============================
 
 ## 目录
@@ -11,6 +12,7 @@
 * [《Java 编程要点》](https://github.com/waylau/essential-java)
 * [《Thinking Java》](http://www.ituring.com.cn/book/1978)
 * [《Java 编码规范》](https://github.com/waylau/java-code-conventions)
+* [设计模式导学](http://blog.csdn.net/lovelion/article/details/17517213)
 * Java学习网站
     * [想飞社区（资源、项目、游戏源码）](http://www.fei1314.com/)
     * [Java知识分享](http://www.java1234.com/)
@@ -23,6 +25,24 @@
     * [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
     * [MyBatis Generator 中文文档](http://mbg.cndocs.tk/)
 
+
+
+
+
+### Android
+
+* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+* [Android学习之路](http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+* [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
+* [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* Android学习网站
+    * [Android手册(good)](http://www.jdzhao.com/)
+    * [Android巴士](http://www.apkbus.com/)
+    * [干货集中营](http://gank.io/download)
+    * [Android博客](http://www.gcssloop.com/)
+    * [张涛-开源实验室](https://kymjs.com/works/)
+    * [React native](http://www.devio.org/tags/#React%20Native)
+    * [Android源码](http://www.androidchina.net/dev/android_source)
 
 
 
@@ -53,6 +73,7 @@
 
 
 ### 前端素材
+* [w3school教程整理](https://github.com/wizardforcel/w3school)
 * [bootstrap](https://startbootstrap.com/)
 * [伯乐在线](http://web.jobbole.com/)
 * [HTML5资源](http://www.html5tricks.com/)(html5tricks)
@@ -87,6 +108,20 @@
 * [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
 * [Swift 语言指南](http://dev.swiftguide.cn)
 * [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
+
+
+
+
+### iOS
+
+* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
+* [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
+* [马上着手开发 iOS 应用程序](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html)
+* [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
+
 
 
 
@@ -179,6 +214,7 @@
 
 
 ### 其他相关
-
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 * [免费的计算机编程类中文书籍](https://github.com/ljheee/free-programming-books-zh_CN)
 
