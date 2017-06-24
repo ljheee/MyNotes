@@ -8,6 +8,16 @@
 ============================
 
 ## 目录
+### IT视频学习网站
+
+* [优达学院](https://cn.udacity.com/)
+* [课工程](http://www.kgc.cn/)
+* [慕课网](http://www.imooc.com/)
+* [博学谷视频库 — 传智播客、黑马程序员视频资源下载库](http://dvd.boxuegu.com/)
+
+
+
+
 
 ### Java
 * [《Java 编程要点》](https://github.com/waylau/essential-java)
@@ -48,15 +58,6 @@
 
 
 
-### IT视频学习网站
-
-* [优达学院](https://cn.udacity.com/)
-* [课工程](http://www.kgc.cn/)
-* [慕课网](http://www.imooc.com/)
-* [博学谷视频库 — 传智播客、黑马程序员视频资源下载库](http://dvd.boxuegu.com/)
-
-
-
 
 ### JavaScript
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
@@ -73,6 +74,7 @@
 
 
 
+
 ### 前端素材
 * [w3school教程整理](https://github.com/wizardforcel/w3school)
 * [bootstrap](https://startbootstrap.com/)
@@ -85,6 +87,7 @@
 
 
 
+
 ### 软件测试
 * [软件测试-教程整理](http://blog.csdn.net/xc5683/article/details/8094552)
 * [软件测试-学习指南](http://blog.csdn.net/xc5683/article/details/9448427)
@@ -92,6 +95,8 @@
 * [软件测试-资源下载](http://blog.csdn.net/xc5683/article/details/50460984#comments)
 * [软件测试基础视频](http://blog.csdn.net/xc5683/article/details/42421645)
 * [史上最全软件测试学习资料（图文教程和视频教程）](https://www.douban.com/group/topic/94986635/?type=like)
+* [20部软件测试视频教程大集合](https://www.douban.com/group/topic/82787489/?type=like)
+
 * 软件测试学习网站
     * [51testing软件测试网](http://www.51testing.com/html/)
     * [QuickTest领先技术专栏](http://blog.csdn.net/zzxxbb112)
