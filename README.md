@@ -1,14 +1,28 @@
 ﻿# MyNotes   技术屋
 
---author：ljheee
---2017-6-24
+* [--author：ljheee]
+* [--2017-6-24]
+* [Blog：](my.csdn.net/ljheee)
 ============================
 
 ## 目录
 
 ### Java
+* [《Java 编程要点》](https://github.com/waylau/essential-java)
+* [《Thinking Java》](http://www.ituring.com.cn/book/1978)
+* [《Java 编码规范》](https://github.com/waylau/java-code-conventions)
+* Java学习网站
+    * [想飞社区（资源、项目、游戏源码）](http://www.fei1314.com/)
+    * [Java知识分享](http://www.java1234.com/)
+    * [ImportNew专注与Java分享](http://www.importnew.com/)
+    * [Java知识分享）](http://www.java1234.com/)	
+* Java框架
+    * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
+    * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
+    * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
+    * [MyBatis中文文档](http://mybatis.org/mybatis-3/zh/index.html)
+    * [MyBatis Generator 中文文档](http://mbg.cndocs.tk/)
 
-* [lxw的大数据田地](http://lxw1234.com/)
 
 
 
@@ -22,21 +36,30 @@
 
 
 
+
 ### JavaScript
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 (http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) 
 * [在Windows下搭建React Native Android开发环境](http://www.xttblog.com/?p=994)
+* [JS特效素材下载](http://js.alixixi.com/)
+* JavaScript学习路线
+    * [第一阶段：《JavaScript DOM编程艺术》]
+    * [第二阶段推荐的《Javascript高级程序设计》的前三章，记住看三章就别往下看了，回到《JavaScript DOM编程艺术》这本书上来。]
+    * [第三阶段：《JavaScript语言精粹》和《高性能JavaScript》]
+    * [第四阶段：《JavaScript DOM高级程序设计》和《JavaScript设计模式》]
 
-#### JavaScript学习路线
-* [第一阶段：《JavaScript DOM编程艺术》]
-* [第二阶段推荐的《Javascript高级程序设计》的前三章，记住看三章就别往下看了，回到《JavaScript DOM编程艺术》这本书上来。]
-* [第三阶段：《JavaScript语言精粹》和《高性能JavaScript》]
-* [第四阶段：《JavaScript DOM高级程序设计》和《JavaScript设计模式》]
+
 
 ### 前端素材
-* [17sucai](http://www.17sucai.com/)
+* [bootstrap](https://startbootstrap.com/)
+* [伯乐在线](http://web.jobbole.com/)
+* [HTML5资源](http://www.html5tricks.com/)(html5tricks)
+* [17sucai下载](http://www.17sucai.com/)
+* [HTML5资源下载](http://www.h5edu.cn/)
+* [大牛博客](http://www.zhangxinxu.com/)
+
 
 
 ### 大数据
@@ -56,6 +79,14 @@
 
 * [GitHub 漫游指南](https://github.com/phodal/github-roam)
 
+
+
+
+### Swift
+
+* [The Swift Programming Language 中文版](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)
+* [Swift 语言指南](http://dev.swiftguide.cn)
+* [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
 
 
 
@@ -117,9 +148,9 @@
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
-#### Windows装机
-* [win7之家](http://www.xitongzhijia.cc/?fav20161023)
-* [win10之家](http://www.iwin10.cc/)
+* Windows装机
+    * [win7之家](http://www.xitongzhijia.cc/?fav20161023)
+    * [win10之家](http://www.iwin10.cc/)
 
 
 
@@ -136,6 +167,8 @@
 * [迅捷PDF转Word；国内的收费](http://app.xunjiepdf.com/)
 * [坚果云网盘](https://www.jianguoyun.com/)
 * [腾讯云真机--Android云调试](http://wetest.qq.com/cloud/index.php/help/cloudindex)
+
+
 
 
 ### 技术提升
