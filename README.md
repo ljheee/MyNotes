@@ -6,6 +6,39 @@
 
 ## 目录
 
+### Java
+
+* [lxw的大数据田地](http://lxw1234.com/)
+
+
+
+
+### IT视频学习网站
+
+* [优达学院](https://cn.udacity.com/)
+* [课工程](http://www.kgc.cn/)
+* [慕课网](http://www.imooc.com/)
+* [博学谷视频库 — 传智播客、黑马程序员视频资源下载库](http://dvd.boxuegu.com/)
+
+
+
+### JavaScript
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+(http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
+* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
+* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) 
+* [在Windows下搭建React Native Android开发环境](http://www.xttblog.com/?p=994)
+
+#### JavaScript学习路线
+* [第一阶段：《JavaScript DOM编程艺术》]
+* [第二阶段推荐的《Javascript高级程序设计》的前三章，记住看三章就别往下看了，回到《JavaScript DOM编程艺术》这本书上来。]
+* [第三阶段：《JavaScript语言精粹》和《高性能JavaScript》]
+* [第四阶段：《JavaScript DOM高级程序设计》和《JavaScript设计模式》]
+
+### 前端素材
+* [17sucai](http://www.17sucai.com/)
+
+
 ### 大数据
 
 * [lxw的大数据田地](http://lxw1234.com/)
@@ -104,6 +137,10 @@
 * [坚果云网盘](https://www.jianguoyun.com/)
 * [腾讯云真机--Android云调试](http://wetest.qq.com/cloud/index.php/help/cloudindex)
 
+
+### 技术提升
+
+* [SitePoint上聚集了非常多的移动开发领域高手](https://www.sitepoint.com/)
 
 
 
