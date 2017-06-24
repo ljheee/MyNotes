@@ -2,12 +2,25 @@
 
 --author：ljheee
 --2017-6-24
-
+============================
 
 ## 目录
 
+### 大数据
+
+* [lxw的大数据田地](http://lxw1234.com/)
+* [厦门大学-林子雨教授](http://dblab.xmu.edu.cn/post/bigdata/)
+* [大数据/数据挖掘/推荐系统/机器学习相关资源](https://github.com/Flowerowl/Big-Data-Resources)
+* [面向程序员的数据挖掘指南](https://github.com/egrcc/guidetodatamining)
+* [大型集群上的快速和通用数据处理架构](https://code.csdn.net/CODE_Translation/spark_matei_phd)
+* [数据挖掘中经典的算法实现和详细的注释](https://github.com/linyiqun/DataMiningAlgorithm)
+* [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
 
+
+### GitHub
+
+* [GitHub 漫游指南](https://github.com/phodal/github-roam)
 
 
 
@@ -59,3 +72,29 @@
 * [Python 标准库 中文版](http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
 * [Python 核心编程 第二版](http://openbookproject.googlecode.com/svn/trunk/CorePython_zh/) CPyUG译
+
+
+### 操作系统
+
+* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
+* [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
+* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+* [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+## Windows装机
+* [win7](http://www.xitongzhijia.cc/?fav20161023)
+* [win10](http://www.iwin10.cc/)
+
+### 在线工具&SDK
+* [科大讯飞SDK](http://www.xfyun.cn/?ch=bdtg)
+* [和风天气SDK](http://www.xfyun.cn/?ch=bdtg)
+* [电子书全站](http://www.pdfshu.org/)
+
+
+* [md5在线加解密](http://www.md5.org.cn/)
+* [PDF转Word；国外免费](www.pdf2doc.com)
+* [迅捷PDF转Word；国内的收费](http://app.xunjiepdf.com/)
+
+### 其他相关
+
+* [免费的计算机编程类中文书籍](https://github.com/ljheee/free-programming-books-zh_CN)
+
