@@ -18,9 +18,11 @@
 
 
 
+
 ### GitHub
 
 * [GitHub 漫游指南](https://github.com/phodal/github-roam)
+
 
 
 
@@ -74,25 +76,37 @@
 * [Python 核心编程 第二版](http://openbookproject.googlecode.com/svn/trunk/CorePython_zh/) CPyUG译
 
 
+
+
 ### 操作系统
 
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 * [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
-## Windows装机
-* [win7](http://www.xitongzhijia.cc/?fav20161023)
-* [win10](http://www.iwin10.cc/)
+#### Windows装机
+* [win7之家](http://www.xitongzhijia.cc/?fav20161023)
+* [win10之家](http://www.iwin10.cc/)
+
+
+
+
 
 ### 在线工具&SDK
-* [科大讯飞SDK](http://www.xfyun.cn/?ch=bdtg)
-* [和风天气SDK](http://www.xfyun.cn/?ch=bdtg)
-* [电子书全站](http://www.pdfshu.org/)
 
+* [科大讯飞SDK](http://www.xfyun.cn/?ch=bdtg)
+* [和风天气SDK](http://www.heweather.com/blog/new-free-api-url)
+* [电子书全站](http://www.pdfshu.org/)
 
 * [md5在线加解密](http://www.md5.org.cn/)
 * [PDF转Word；国外免费](www.pdf2doc.com)
 * [迅捷PDF转Word；国内的收费](http://app.xunjiepdf.com/)
+* [坚果云网盘](https://www.jianguoyun.com/)
+* [腾讯云真机--Android云调试](http://wetest.qq.com/cloud/index.php/help/cloudindex)
+
+
+
+
 
 ### 其他相关
 
