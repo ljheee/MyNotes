@@ -98,6 +98,7 @@
 * [20部软件测试视频教程大集合](https://www.douban.com/group/topic/82787489/?type=like)
 
 * 软件测试学习网站
+    * [腾讯课堂免费公开课](https://ke.qq.com/course/131374#tuin=b89f4c46)
     * [51testing软件测试网](http://www.51testing.com/html/)
     * [QuickTest领先技术专栏](http://blog.csdn.net/zzxxbb112)
     * [卖烧烤的鱼测试博客](http://www.51testing.com/html/)
